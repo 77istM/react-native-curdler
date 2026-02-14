@@ -1,7 +1,4 @@
-master has final code.
-
-2-CRUDL-Workflows merge & sqash with master.
-
-Part-3-Using-mobile-features (Activity 15-18)
-
-Part2-Using-RESTful-APIs (Activity 1-15)
+- Drawer Navigator USER & MODULE
+- Each has their own Stack Navigator. Both has: Add+, list of person/modules, modify & delete option, select item option (5s long press)
+- Module section has Favourate ♡ 
+- It uses API end point
