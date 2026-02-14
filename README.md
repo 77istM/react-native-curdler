@@ -4,3 +4,5 @@
 - It uses API end point
 
 I've used EXPO GO app as emulator. To start app type 'npm start' to IDE terminal. More info on https://expo.dev/
+
+Demo video: https://youtu.be/nFHXPT8DKBs
